@@ -8,6 +8,7 @@ namespace projetogit
         {
             Console.WriteLine("Ola Mundo");
             Console.WriteLine("Bom dia");
+            Console.WriteLine("Como vc está hoje");
         }
     }
 }
