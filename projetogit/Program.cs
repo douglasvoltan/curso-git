@@ -7,8 +7,10 @@ namespace projetogit
         static void Main(string[] args)
         {
             Console.WriteLine("Ola Mundo");
-            Console.WriteLine("Bom dia");
+         
             Console.WriteLine("Como vc está hoje");
+
+            Console.WriteLine("Boa Noite");
         }
     }
 }
